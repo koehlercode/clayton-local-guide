@@ -4,8 +4,8 @@
 :root {
     --forest-green: #344b3c;
     --cream: #f5f1e8;
-    --sage: #657b63;
-    --warm-brown: #a36f4b;
+    --sage: #596f57;
+    --warm-brown: #8b5d3e;
     --card-background: #fffdf8;
     --dark-text: #333b32;
 }
@@ -187,4 +187,5 @@ footer {
     .feature-container {
         flex-direction: column;
     }
+    
 }
